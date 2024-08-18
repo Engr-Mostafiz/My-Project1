@@ -46,14 +46,15 @@
     background-size: 100%;
     background-position: bottom;
     position: relative;
-    height: 75vw;
-    width: 75vw;
+    height: 80vw;
+    width: 80vw;
     margin-top: 5vw;
     max-height: 40rem;
     max-width: 40rem;
 }
 .profile .profile-img {
-    height: 80vw;
+    height: 70vw;
+    width: 70vw;
     max-height: 45rem;
     position: absolute;
     bottom: 0;
